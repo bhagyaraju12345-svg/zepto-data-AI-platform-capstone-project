@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sql_join,pandas_merge,match
 "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer | Default | 20.59 | 2172.24 | 5 | 1","The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer | Default | 20.59 | 2172.24 | 5 | 1",True
 Princess Between Worlds (Wide-Awake Princess #5) | Fantasy | 13.34 | 1407.37 | 5 | 1,Princess Between Worlds (Wide-Awake Princess #5) | Fantasy | 13.34 | 1407.37 | 5 | 1,True
@@ -9,3 +10,16 @@ Rip it Up and Start Again | Music | 35.02 | 3694.61 | 5 | 1,Rip it Up and Start 
 #HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe. | Nonfiction | 23.11 | 2438.1 | 5 | 1,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe. | Nonfiction | 23.11 | 2438.1 | 5 | 1,True
 Worlds Elsewhere: Journeys Around Shakespeareâs Globe | Nonfiction | 40.3 | 4251.65 | 5 | 1,Worlds Elsewhere: Journeys Around Shakespeareâs Globe | Nonfiction | 40.3 | 4251.65 | 5 | 1,True
 Sophie's World | Philosophy | 15.94 | 1681.67 | 5 | 1,Sophie's World | Philosophy | 15.94 | 1681.67 | 5 | 1,True
+=======
+sql_join,pandas_merge,match
+"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer | Default | 20.59 | 2172.24 | 5 | 1","The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer | Default | 20.59 | 2172.24 | 5 | 1",True
+Princess Between Worlds (Wide-Awake Princess #5) | Fantasy | 13.34 | 1407.37 | 5 | 1,Princess Between Worlds (Wide-Awake Princess #5) | Fantasy | 13.34 | 1407.37 | 5 | 1,True
+Private Paris (Private #10) | Fiction | 47.61 | 5022.85 | 5 | 1,Private Paris (Private #10) | Fiction | 47.61 | 5022.85 | 5 | 1,True
+Thirst | Fiction | 17.27 | 1821.98 | 5 | 1,Thirst | Fiction | 17.27 | 1821.98 | 5 | 1,True
+"We Love You, Charlie Freeman | Fiction | 50.27 | 5303.48 | 5 | 1","We Love You, Charlie Freeman | Fiction | 50.27 | 5303.48 | 5 | 1",True
+Sapiens: A Brief History of Humankind | History | 54.23 | 5721.26 | 5 | 1,Sapiens: A Brief History of Humankind | History | 54.23 | 5721.26 | 5 | 1,True
+Rip it Up and Start Again | Music | 35.02 | 3694.61 | 5 | 1,Rip it Up and Start Again | Music | 35.02 | 3694.61 | 5 | 1,True
+#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe. | Nonfiction | 23.11 | 2438.1 | 5 | 1,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe. | Nonfiction | 23.11 | 2438.1 | 5 | 1,True
+Worlds Elsewhere: Journeys Around Shakespeareâs Globe | Nonfiction | 40.3 | 4251.65 | 5 | 1,Worlds Elsewhere: Journeys Around Shakespeareâs Globe | Nonfiction | 40.3 | 4251.65 | 5 | 1,True
+Sophie's World | Philosophy | 15.94 | 1681.67 | 5 | 1,Sophie's World | Philosophy | 15.94 | 1681.67 | 5 | 1,True
+>>>>>>> 08113b3fb69eb4f5b7a46eb0e6de961e744a2ee7

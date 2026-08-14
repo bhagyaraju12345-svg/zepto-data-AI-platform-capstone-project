@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 requests
 pandas
 beautifulsoup4
@@ -6,3 +7,6 @@ seaborn
 sklearn
 imblearn
 Pipeline
+=======
+
+>>>>>>> 08113b3fb69eb4f5b7a46eb0e6de961e744a2ee7
